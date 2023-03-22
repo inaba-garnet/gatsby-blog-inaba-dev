@@ -1,0 +1,35 @@
+{
+  "name": "inaba-blog",
+  "version": "1.0.0",
+  "private": true,
+  "description": "inaba-blog",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "@chakra-ui/react": "^1.8.9",
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@mdx-js/react": "^1.6.22",
+    "framer-motion": "^6.5.1",
+    "gatsby": "^4.25.5",
+    "gatsby-plugin-image": "^2.25.0",
+    "gatsby-plugin-mdx": "^3.20.0",
+    "gatsby-plugin-sharp": "^4.25.0",
+    "gatsby-source-contentful": "^7.23.1",
+    "gatsby-source-filesystem": "^4.25.0",
+    "gatsby-transformer-sharp": "^4.25.0",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.14"
+  }
+}
